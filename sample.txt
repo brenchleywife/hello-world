@@ -1,3 +1,3 @@
 Writing a short message for CS246
 
-github has changed the file
+github has modified the file for merge conflict trial
